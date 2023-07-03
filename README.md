@@ -13,11 +13,11 @@ This project implements neural style transfer, a technique that combines the sty
 
 ## Introduction
 
-Neural style transfer is a popular technique in computer vision and deep learning. It involves training a neural network to separate and recombine the content and style of arbitrary images. This project implements an algorithm based on the paper [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) by Gatys et al.
+Neural style transfer is a popular technique in computer vision and deep learning. It involves training a neural network to separate and recombine the content and style of arbitrary images. This project implements an algorithm based on the paper [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) by Gatys et al. Uses Tensorflow Own Code For implementation
 
 ## Demo
 
-To see a live demo of the neural style transfer in action, check out our [online demo](https://example.com) hosted on our website.
+To see a live demo of the neural style transfer in action, check out our [online demo](https://waititisuploadingsoon) That will be uploaded asap.
 
 ## Installation
 
